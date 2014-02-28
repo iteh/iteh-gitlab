@@ -17,6 +17,7 @@
 # limitations under the License.
 #
 
+include_recipe "base"
 
 include_recipe "postfix"
 include_recipe "gitlab::default"
