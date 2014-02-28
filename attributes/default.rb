@@ -1,0 +1,1 @@
+default['gitlab']['enable_backups'] = true
