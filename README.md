@@ -49,4 +49,4 @@ Include `iteh-gitlab` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: Edmund Haselwanter (me@ehaselwanter.com)
