@@ -1,1 +1,1 @@
-default['gitlab']['enable_backups'] = true
+default['gitlab']['enable_backups'] = truedefault['gitlab']['update_hostsfile'] = true
