@@ -1,10 +1,11 @@
 # iteh-gitlab-cookbook
 
-TODO: Enter the cookbook description here.
+Wrapper cookbook to the official gitlab cookbook.
+Adds some additional functionality and fixes edge cases
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+Currently Ubuntu 12.04 only
 
 ## Attributes
 
